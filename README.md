@@ -69,7 +69,7 @@ uvicorn app.main:app --reload
 To run the server on a specific IP and port:
 
 ```bash
-uvicorn app.main:app --host 172.168.9.132 --port 8080 --reload
+uvicorn app.main:app --host 172.168.9.12 --port 8080 --reload
 ```
 
 # **🧾 Terminal Command Summary**
